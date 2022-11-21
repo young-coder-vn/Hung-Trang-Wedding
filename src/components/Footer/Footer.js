@@ -24,7 +24,7 @@ const Footer = () => {
         >
             <Content />
 
-            <iframe src="https://www.nhaccuatui.com/mh/background/YhHm3pfxcuKQ" width="1" height="1" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+            {/* <iframe src="https://www.nhaccuatui.com/mh/background/YhHm3pfxcuKQ" width="1" height="1" frameborder="0" allowfullscreen allow="autoplay"></iframe> */}
         </footer>
     )
 }
