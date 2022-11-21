@@ -11,10 +11,10 @@ export default {
             <div className="d-flex flex-column">
                 <div>
                     <span style={{ textDecoration: "line" }}>
-                        08:30 - 18/12/2022
+                        08:30 18/12/2022
                     </span>
                 </div>
-                <div>Lễ Thành Hôn...</div>
+                <div><b>Lễ Thành Hôn</b></div>
             </div>
         ),
         Location: () => <span>Nhà Hàng Đoàn Dung, Phú Xuân, Thọ Xuân, Thanh Hoá</span>,

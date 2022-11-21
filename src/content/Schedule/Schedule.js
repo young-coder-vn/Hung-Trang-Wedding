@@ -9,7 +9,6 @@ export default {
             Date: () => <>17/12/2022</>,
             Time: () => <>7:30</>,
             Location: () => <>Tại Gia Đình Nhà Gái</>,
-            // locationLink: "https://www.tripadvisor.com/Restaurant_Review-g670769-d6540538-Reviews-Restaurant_La_Barraca-L_Ampolla_Terres_de_l_Ebre_Province_of_Tarragona_Catalonia.html",
             Address: () => (
                 <>
                     <p>Thôn 2, Xã Yên Thịnh</p>
@@ -30,7 +29,6 @@ export default {
             Date: () => <>18/12/2022</>,
             Time: () => <>08:30</>,
             Location: () => <>Tại Nhà Hàng Đoàn Dung</>,
-            // locationLink: "http://www.lesmoles.com/index.asp?i=en",
             Address: () => (
                 <>
                     <p>Thôn Thống Nhất, Xã Phú Xuân</p>

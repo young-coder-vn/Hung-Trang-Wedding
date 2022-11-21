@@ -7,7 +7,7 @@ export default {
         Heading: () => <>Lịch Trình</>,
         SubHeading: () => (
             <span>
-                Đây là những gì mong đợi trong ngày cưới cuối tuần của chúng tôi. Chúng tôi không thể chờ đợi để ăn mừng với bạn!
+                Hãy tham gia vào cuối tuần đầy hạnh phúc của chúng tôi.
             </span>
         ),
     },
