@@ -1,6 +1,6 @@
 This repository contains the source code for my wedding website. The website is a React project started from `create-react-app`.
 
-You can view the live site at [www.Hung-Trang-Wedding.github.io](https://www.Hung-Trang-Wedding.github.io).
+You can view the live site at [Hung-Trang-Wedding.github.io](https://Hung-Trang-Wedding.github.io).
 
 The website provides the following features:
 
